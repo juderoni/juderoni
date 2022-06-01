@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @juderoni
-- 👀 I’m interested in making cool things
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me - judesproul@gmail.com
+I'm Jude, happy to learn anything.
+Reach me at judesproul@gmail.com
